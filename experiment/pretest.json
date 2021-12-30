@@ -2,38 +2,115 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Pressure recovery in the case of orificemeter is _____________ that for venturimeter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "more than",
+        "b": "less than",
+        "c": "equal to"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Orificemeter is ______________________ type of flowmeter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "variable area",
+        "b": "mass flow",
+        "c": "velocity meter",
+        "d": "variable head"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Coefficient of discharge for  orificemeter is",
+      "answers": {
+        "a": "always less than 1",
+        "b": "always greater than 1",
+        "c": "always equal to 1"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "For an orifice meter,if you plot log( flow rate) vs log(pressure drop),the slope of the straight  line is",
+      "answers": {
+        "a": "0.2",
+        "b": "2",
+        "c": "0.5",
+        "d": "5"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Coefficient of discharge is the",
+      "answers": {
+        "a": "ratio of actual flow rate to theoretical flow rate",
+        "b": "ratio of theoretical flow rate to actual flow rate",
+        "c": "ratio of velocity at the orifice or throat to the velocity at the pipe",
+        "d": "ratio of velocity at pipe to the velocity at the orifice or throat"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Two tubes of diameter 1 cm and 2 cm are filled with mercury to a height of 50 cm. The tubes are open to atmosphere. Now pressure at the bottom of the mercury column will be",
+      "answers": {
+        "a": "higher for the tube of dia 1 cm",
+        "b": "higher for the tube of dia 2 cm",
+        "c": "the same for both the tubes",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Fannings friction factor for a flow with Reynolds number of 1000 is",
+      "answers": {
+        "a": "0.016",
+        "b": "0.014"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
