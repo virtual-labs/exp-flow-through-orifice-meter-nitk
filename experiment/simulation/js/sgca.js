@@ -9,10 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById("nextButton").style.visibility = "hidden";
     setTimeout(() => {
         var start = document.getElementById("start");
-        start.innerText = "FLOW THROUGH  ORIFICE";
+        start.innerText = "FLOW THROUGH  ORIFICE METER";
         start.style.fontSize = "xx-large";
         start.classList.add("content-shine");
-        start.style.left = "570px";
+        start.style.left = "500px";
         start.style.top = "170px";
         document.getElementById("landingPageButton").style.visibility = "visible";
         document.getElementById("landingPageButton").style.cursor = "pointer";
