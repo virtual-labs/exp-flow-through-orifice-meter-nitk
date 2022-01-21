@@ -8,8 +8,8 @@ constriction is correlated to the flow rate using Bernoulli's theorem.
 </p>
 
 <p style="text-indent: 30px; text-align: justify;">
-If a constriction is placed in a pipe carrying a stream of fuid, there will be an
-increase in velocity, and hence an increase in kinetic energy ,at the point of
+If a constriction is placed in a pipe carrying a stream of fluid, there will be an
+increase in velocity, and hence an increase in kinetic energy, at the point of
 constriction. From an energy balance as given by Bernoulli's theorem, there must
 be a corresponding reduction in pressure. Rate of discharge from the constriction
 can be calculated by knowing this pressure reduction, the area available for flow at
@@ -18,7 +18,7 @@ Coefficient of discharge is the ratio of actual flow to the theoretical flow and
 makes allowances for stream contraction and frictional effects. Venturi meter,
 orifice meter, and Pitot tube are widely used head flow meters in the industry. The
 Pitot-static is often used for measuring the local velocity in pipes or ducts. For
-measuring flow in enclosed ducts or channels, the Venturi meter and orifice meters
+measuring flow in enclosed ducts or channels, the Venturimeter and orifice meters
 are more convenient and more frequently used. The Venturi is widely used
 particularly for large volume liquid and gas flows since it exhibits little pressure
 loss. However, for smaller pipes orifice meter is a suitable choice. In order to use
@@ -63,21 +63,21 @@ proportional to the square of the rate of flow.
 </p>
 
 <p style=" text-align: justify;">
-Following types of pressure taps can be located for differential pressure
-measurement:</br>
-Corner: pressure taps one each on the upstream and downstream flanges.</br>
-Radius taps:One pipe diameter upstream side and one and a half pipe diameter on
-the downstream side.</br>
-Pipe taps: Upstream side- 2.5pipe diameters and downstream side- 8 pipe
-diameters.</br>
-Flange taps: 1" upstream side and 1" downstream side.</br></br>
+Following types of pressure taps can be located for differential pressure measurement:</p>
+<ul style="list-style-type: circle;">
+<li>Corner: pressure taps one each on the upstream and downstream flanges.</li>
+<li>Radius taps: one pipe diameter upstream side and one and a half pipe diameter on
+the downstream side.</li>
+<li>Pipe taps: Upstream side- 2.5pipe diameters and downstream side- 8 pipe
+diameters.</li>
+<li>Flange taps: 1" upstream side and 1" downstream side.</li></ul>
 
 
 <center><img  src="images/fto2.gif" style="width:353px;height:208px"></center></br></br>
-The analysis of the flow through a restriction (Figure 2) begins with assuming
-straight, parallel</br>
+<p style=" text-align: justify;">The analysis of the flow through a restriction (Figure 2) begins with assuming
+straight, parallel
 stream lines at cross sections 1 and 2, and the absence of energy losses along the
-streamline from point 1 to point 2.</br></br>
+streamline from point 1 to point 2.</p>
 
 <center><img  src="images/fto3.gif"style="width:383px;height:221px"></center></br></br>
 The objective is to measure the mass flow rate(m) By continuity</br></br>
@@ -92,18 +92,18 @@ across the duct may therefore be taken to be uniform:
 <center><img src="images/CodeCogsEqn (39).gif" style="width:160px;height:45px;"></center></br>
 assuming that the duct is horizontal. Combining (3) with (2) gives </br>
 <center><img src="images/CodeCogsEqn (40).gif" style="width:223px;height:56px;"></center> </br>
-For a real flow through a restriction, the assumptions above do not hold
+<p style=" text-align: justify;">For a real flow through a restriction, the assumptions above do not hold
 completely. Further, we
 cannot easily measure the cross-sectional area of the jet at the vena contracta at
 cross-section 2 where the streamlines are parallel. These errors in the idealised
-analysis are accounted for by</br>
+analysis are accounted for by
 introducing a single, cover all correction factor, the discharge coefficient, C<sub>d</sub>, such
 that</p>
 <center><img src="images/CodeCogsEqn (41).gif"  style="width:225px;height:45px;"></center>
 
 <p style="text-align: justify;">
 Coefficient of discharge for a given orifice type is a function of the Reynolds
-number (N<sub>Reo</sub>) based on orifice diameter and velocity,and diameter ratio<img src="images/CodeCogsEqn (42).gif"  style="width:11px;height:16px;">. At
+number (N<sub>Reo</sub>) based on orifice diameter and velocity, and diameter ratio<img src="images/CodeCogsEqn (42).gif"  style="width:11px;height:16px;">. At
 Reynolds number greater than about 30000,the coefficients are substantially
 constant and independent of <img src="images/CodeCogsEqn (42).gif"  style="width:11px;height:16px;"> .For square edged or sharp edged concentric circular
 orifices, the value will fall between 0.595 and 0.62 for vena contracta or radius taps
@@ -113,16 +113,16 @@ for <img src="images/CodeCogsEqn (42).gif"  style="width:11px;height:16px;"> upt
 Coefficient of discharge for square edged circular orifices with corner taps[Tuve
 and Sprenle Instruments(1933)]</br>
 
-In summary, the principal advantages of the orifice plate are
-<ul>
+In summary, the principal advantages of the orifice plate are :
+<ul style="list-style-type: circle; text-align: justify;">
 <li>it is simple and robust</li>
 <li>standards are well established and comprehensive</li>
 <li>plates are cheap</li>
 <li>may be used on gases, liquids and wet mixtures (eg steam)</li>
 </ul>
 
-Its principal drawbacks are
-<ul>
+Its principal drawbacks are :
+<ul style="list-style-type: circle; text-align: justify;">
 <li>low dynamic range: maximum to minimum mass flow rates only 4:1 at best</li>
 <li>performance changes with plate damage or build up of dirt.</li>
 <li>affected by upstream swirl</li>
@@ -134,7 +134,6 @@ orifice differential.</li>
 </br>
 <center><img src= "images/fto5.gif" style="width:567px;height:490px"></center>
 
-</br>
 Comparison of permanent head loss caused by different head meters
-Orifice plates and flanges</br>
+Orifice plates and flanges
 <center><img src= "images/fto6.jpg" style="width:200px;height:160px"></center>
