@@ -2,38 +2,83 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Coefficient of discharge for a given orifice is a function of ________________ and __________________ for orificemeter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Orifice Reynolds number only",
+        "b": "β ratio only",
+        "c": "Both Orifice Reynolds number and β ratio",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Permanent pressure loss is _______________ in the case venturimeter  as compared to of orificemeter?",
+      "answers": {
+        "a": "more",
+        "b": "less",
+        "c": "equal"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The pressure drop across the orifice ___________________  when the rate of flow increases.",
+      "answers": {
+        "a": "increases",
+        "b": "decreases",
+        "c": "remain the same"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Flange taps for the orifice meter are located at",
+      "answers": {
+        "a": "immediately adjacent to the plate faces, upstream and downstream",
+        "b": "2½ pipe diameters upstream and 8 pipe diameters downstream",
+        "c": "one inch from the upstream face of the orifice plate and one inch from the downstream face",
+        "d": "One pipe diameter(D) on upstream side and D/2 on down stream side"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Orificemeter can be used for measuring the flow rate of",
+      "answers": {
+        "a": "liquid only",
+        "b": "both for liquids and gases",
+        "c": "gasses only"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
